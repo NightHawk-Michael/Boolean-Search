@@ -139,7 +139,7 @@ showjquery($rockType,$featureType,$edPhaseType,$eqType,$treType,$sampleSpecies,$
 */
 
 
-include "view/booleanIndex_v.php";
+include "view/booleanIndex_v111.php";
 
 
 showFooter1();
